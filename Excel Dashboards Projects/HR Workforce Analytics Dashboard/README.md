@@ -52,7 +52,6 @@ The goal of this project was to understand the fundamentals of data analysis, vi
 
 ## 📸 Dashboard Preview
 
-*(Add your screenshot below)*
 
 ![Dashboard Screenshot](images/dashboard.png)
 
