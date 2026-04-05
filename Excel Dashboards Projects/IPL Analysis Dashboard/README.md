@@ -1,94 +1,127 @@
-🏏 IPL Analysis Dashboard
-🚀 Project Overview
+# 🏏 IPL Analysis Dashboard
 
-This is my second Excel dashboard project, focused on analyzing IPL (Indian Premier League) data to generate team and player insights.
+## 🚀 Project Overview
 
-Compared to my first project, this dashboard is more structured, interactive, and KPI-driven, with improved design and usability.
+This is my **second Excel dashboard project**, focused on analyzing **IPL (Indian Premier League) data** to generate team and player insights.
+
+Compared to my first project, this dashboard is more **structured, interactive, and KPI-driven**, with improved design and usability.
 
 The dashboard is divided into two main sections:
+* **Team Analytics**
+* **Player Analytics**
 
-Team Analytics
-Player Analytics
+Navigation between sections is implemented using Excel's **link feature**, making the dashboard more dynamic.
 
-Navigation between sections is implemented using Excel's link feature, making the dashboard more dynamic.
+---
 
-🛠️ Tools & Technologies Used
-Microsoft Excel
-Power Query (ETL Process)
-Power Pivot
-Pivot Tables
-Pivot Charts
-Slicers & Dashboard Navigation
+## 🛠️ Tools & Technologies Used
 
-⚙️ Project Workflow
-🔹 Data Processing (ETL)
-Imported and transformed IPL dataset using Power Query
-Cleaned and structured data for analysis
+* Microsoft Excel  
+* Power Query (ETL Process)  
+* Power Pivot  
+* Pivot Tables  
+* Pivot Charts  
+* Slicers & Dashboard Navigation  
 
-🔹 Data Modeling
-Built relationships using Power Pivot
-Created measures for KPIs like:
-Total Runs
-Total Wickets
-Matches Won
+---
 
-🔹 Data Analysis
-Used Pivot Tables for team and player performance analysis
-Applied aggregation logic for meaningful insights
+## ⚙️ Project Workflow
 
-🔹 Dashboard Design
-Designed a clean and modern UI using shapes
-Organized layout into clear sections for better readability
+### 🔹 Data Processing (ETL)
 
-🔹 Interactivity
-Added multiple slicers:
-Venue
-Team
-Win Type
-Nationality Type
-Enabled dynamic filtering across visuals
-Used navigation buttons (links) to switch between dashboards
+* Imported and transformed IPL dataset using **Power Query**
+* Cleaned and structured data for analysis
 
-📊 Dashboard Features
-🔹 Team Analytics
-Matches won by each team
-Total runs scored by each team
-Total wickets taken by each team
-Win type distribution (Runs vs Wickets)
+### 🔹 Data Modeling
 
-🔹 Player Analytics
-Runs Scored By Players
-Wickets Taken By Players
-Strike Rate Of Players
-Economy Rate Of Players
-Filter-based dynamic analysis
+* Built relationships using **Power Pivot**
+* Created measures for KPIs like:
+  * Total Runs  
+  * Total Wickets  
+  * Matches Won  
 
-🔹 KPIs
-Total Teams
-Total Matches
-Total Runs
-Total Wickets
-Highest Run Scorer
-Highest Wicket Taker
-Average Strike Rate
-Average Economy Rate
+### 🔹 Data Analysis
 
-📸 Dashboard Preview
+* Used **Pivot Tables** for team and player performance analysis
+* Applied aggregation logic for meaningful insights
 
-🎯 Improvements from Previous Project
-✅ Better UI/UX using shapes and layout design
-✅ Introduction of multiple slicers for deeper analysis
-✅ Use of KPIs for quick insights
-✅ Added navigation between dashboards
-✅ Improved data modeling and measure creation
+### 🔹 Dashboard Design
 
-🎯 Key Learnings
-Advanced use of Excel dashboard design principles
-Better understanding of data modeling with Power Pivot
-Creating interactive dashboards with multiple filters
-Importance of visual hierarchy and user experience
-Building dashboards that tell a clear data story
+* Designed a **clean and modern UI using shapes**
+* Organized layout into clear sections for better readability
 
-📌 Note
-This project reflects my progress from a beginner to an intermediate level in Excel dashboards.
-Next, I plan to build more advanced projects using Python, Streamlit, Excel and Power BI 🚀
+### 🔹 Interactivity
+
+* Added **multiple slicers**:
+  * Venue  
+  * Win Type
+  * Team
+  * Nationality Type
+* Enabled dynamic filtering across visuals
+* Used **navigation buttons (links)** to switch between dashboards
+
+---
+
+## 📊 Dashboard Features
+
+### 🔹 Team Analytics
+
+* Matches won by each team  
+* Total runs scored by each team  
+* Total wickets taken by each team  
+* Win type distribution (Runs vs Wickets)  
+
+### 🔹 Player Analytics
+
+* Runs Scored by Each Player
+* Wickets Taken by Each Player
+* Stike Rate of Each Player
+* Economy of Each Player
+* Filter-based dynamic analysis  
+
+### 🔹 KPIs
+
+* Total Teams  
+* Total Matches  
+* Total Runs  
+* Total Wickets
+* Highest Runs Scorer
+* Highest Wickets Taker
+* Average Strike Rate
+* Average Economy 
+
+---
+
+## 📸 Dashboard Preview
+
+![IPL Dashboard](images/image1.png)
+
+
+![IPL Dashboard](images/image3.png)
+
+---
+
+## 🎯 Improvements from Previous Project
+
+* ✅ Better **UI/UX using shapes and layout design**  
+* ✅ Introduction of **multiple slicers for deeper analysis**  
+* ✅ Use of **KPIs for quick insights**  
+* ✅ Added **navigation between dashboards**  
+* ✅ Improved **data modeling and measure creation**  
+
+---
+
+## 🎯 Key Learnings
+
+* Advanced use of **Excel dashboard design principles**  
+* Better understanding of **data modeling with Power Pivot**  
+* Creating **interactive dashboards with multiple filters**  
+* Importance of **visual hierarchy and user experience**  
+* Building dashboards that tell a **clear data story**  
+
+---
+
+## 📌 Note
+
+This project reflects my progress from a **beginner to an intermediate level** in Excel dashboards.  
+Next, I plan to build more advanced projects using **Python, Streamlit, Excel and Power BI** 🚀  
