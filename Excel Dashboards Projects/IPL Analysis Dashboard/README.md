@@ -94,10 +94,11 @@ Navigation between sections is implemented using Excel's **link feature**, makin
 
 ## 📸 Dashboard Preview
 
-![IPL Analysis Dashboard](Images/image1.png)
+### 🖼️ View 1
+![Dashboard Image 1](Images/image%201.png)
 
-
-![IPL Analysis Dashboard](Images/image3.png)
+### 🖼️ View 2
+![Dashboard Image 3](Images/image%203.png)
 
 ---
 
