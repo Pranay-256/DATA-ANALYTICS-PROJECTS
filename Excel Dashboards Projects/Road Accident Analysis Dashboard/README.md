@@ -111,7 +111,11 @@ Navigation and user interaction are implemented using Excel's **link feature**, 
 
 ### 🖼️ Dashboard View
 
-![Road Accident Dashboard](Images/road_accident_dashboard.png)
+### 🖼️ View 1
+![Dashboard Image 1](Images/image%201.png)
+
+### 🖼️ View 2
+![Dashboard Image 3](Images/image%203.png)
 
 ---
 
